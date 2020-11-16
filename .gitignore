@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+venv
+app.db
+.idea
+.pytest_cache
+db_repository
+config_local.py
